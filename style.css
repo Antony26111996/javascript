@@ -1,0 +1,43 @@
+.empty{
+    background-color: #FFFFFF;
+    box-shadow: 0px 5px 51px rgba(0, 0, 0, 0.15);
+    width: 450px;
+    height: 326px;
+    border-radius: 10px;
+    margin-left: 453px;
+    margin-top: 79px;
+}
+.empty h1{
+    text-align: center;
+    padding-top: 20px;
+}
+#one{
+    margin-left: 10px;
+
+}
+#two{
+    margin-left: 10px;
+
+}
+#add{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 40px;
+ 
+}
+#sub{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: -110px;
+    
+}
+#multiply{
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+#div{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: px;
+}
